@@ -14,7 +14,7 @@ This is a basic implementation of the Atari Pong game, but it's missing a few th
 2) In the command line interface navigate to Desktop folder 
 
     ( you don't know how to do that? It is okay, just copy and paste this into your terminal <span style="color:red">**cd Desktop**</span> to the terminal and hit <span style="color:yellow">**Enter**</span> )
-3) Clone the html file repository using this command <span style="color:red">**git clone  https://github.com/HanaAbdi/pong-game/ **</span>
+3) Clone the html file repository using this command <span style="color:red">**git clone  https://github.com/HanaAbdi/pong-game/blob/a642bfada6b00a97f76c9a6c53a7ff539dcbef9d/pong.html **</span>
 
 4) Run this commad <span style="color:red">**code pong && python3 -m http.server --directory pong**</span>
 
