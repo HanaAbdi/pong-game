@@ -13,7 +13,7 @@ This is a basic implementation of the Atari Pong game, but it's missing a few th
 
 2) In the command line interface navigate to Desktop folder 
 
-    ( you don't know how to do that? It is okay, just copy and paste this into your terminal <span style="color:red">**cd Desktop**</span> to the terminal and hit <span style="color:yellow">**Enter**</span> )
+    ( you don't know how to do that? It is okay, just copy and paste this into your terminal <span style="color:red">**cd Desktop**</span> and hit <span style="color:yellow">**Enter**</span> )
 3) Clone the html file repository using this command <span style="color:red"> git clone https://github.com/HanaAbdi/pong-game.git </span>
 
 4) Open the pong.html file 
