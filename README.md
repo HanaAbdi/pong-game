@@ -29,7 +29,7 @@ This is a basic implementation of the Atari Pong game, but it's missing a few th
 
 2) Change the velocity of the ball and the speed of the paddles.
 
-3) Change the direction of the ball to be in the opposite direction when the ball goes past a paddle.
+3) When the ball goes passed the paddle, change direction of the ball from the starting line.
 
 4) *optional* Please add in the score on Pong game - so for instance each player gets a score. 
 
