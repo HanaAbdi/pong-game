@@ -9,16 +9,17 @@ This is a basic implementation of the Atari Pong game, but it's missing a few th
 
 #  Prepare The challenge:
 
-1) Open the terminal by clicking  <span style="color:yellow">**CTRL+ALT+T**</span>
+1) Open the terminal by clicking **```CTRL+ALT+T```**
 
 2) In the command line interface navigate to Desktop folder 
 
-    ( you don't know how to do that? It is okay, just copy and paste this into your terminal <span style="color:red">**cd Desktop**</span> and hit <span style="color:yellow">**Enter**</span> )
-3) Clone the html file repository using this command : <span style="color:red">git clone https://github.com/HanaAbdi/pong-game.git </span>
+    ( you don't know how to do that? It is okay, just copy and paste this into your terminal ```cd Desktop``` and hit **```Enter```** )
+3) Clone the html file repository using this command : ```git clone https://github.com/HanaAbdi/pong-game.git```
 
-4) Run this commad <span style="color:red">**code pong-game && python3 -m http.server --directory pong-game **</span>
 
-5) Now on your browser go to http://localhost:8000/ and click on <span style="color:blue">**pong.html**</span>
+4) Run this commad ```code pong-game && python3 -m http.server --directory pong-game```
+
+5) Now on your browser go to http://localhost:8000/ and click on ```pong.html```
 
 6) To do the challenge use your vscode to edit the pong.html file and refresh to see your edits.
 
